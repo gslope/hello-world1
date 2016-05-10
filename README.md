@@ -1,2 +1,5 @@
-# hello-world1
+# Hello-world
 My first repository
+
+
+Hello Humans!  I like JSON and Javascript!
